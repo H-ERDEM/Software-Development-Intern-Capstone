@@ -1,17 +1,29 @@
 
-### 🗂️ Engineering Modules
+## 🇬🇧 English
 
-| Domain | Repository | Core Stack | Architectural Highlights | Direct Access |
+### 📌 Overview
+This repository serves as the central documentation and index for all **final deliverables and capstone projects** completed during the software engineering internship program. It consolidates independent production-ready modules across mobile development, frontend engineering, and relational database systems.
+
+```text
+Internship Deliverables Hub
+├── 📱 Mobile Track       ── Flutter Mini Catalog       (Flutter / Dart / UI-State Logic)
+├── ⚛️ Frontend Track     ── React Interview Bank       (React / State Mgmt / Dynamic Filtering)
+└── 🗄️ Database Track     ── NovaStore Relational Model (MS SQL Server / T-SQL / Normalization)
+
+```
+### 🗂️ Project Deliverables Matrix
+
+| Track | Capstone Project | Technology Stack | Deliverable Highlights | Repository Link |
 | --- | --- | --- | --- | --- |
-| 📱 **Mobile** | **Flutter Mini Catalog** | `Flutter`, `Dart` | Modular widget tree, adaptive/responsive design, state handling. | [📂 View Repository](https://github.com/H-ERDEM/flutter-mini-catalog) |
-| ⚛️ **Frontend** | **React Question Bank** | `React`, `JavaScript` | Dynamic query & filter engine, reusable components, declarative state. | [📂 View Repository](https://github.com/H-ERDEM/react-interview-question-bank) |
-| 🗄️ **Database** | **NovaStore DB** | `MS SQL Server`, `T-SQL` | 3NF relational normalization, foreign key integrity, optimized queries. | [📂 View Repository](https://github.com/H-ERDEM/NovaStore-SQLServer-ECommerceDB) |
+| 📱 **Mobile** | **Flutter Mini Catalog** | `Flutter`, `Dart` | Reusable widget hierarchy, state-driven catalog flow, responsive layouts. | [📂 View Project](https://github.com/H-ERDEM/flutter-mini-catalog) |
+| ⚛️ **Frontend** | **React Question Bank** | `React`, `JavaScript` | Decoupled UI components, optimized real-time search & filter engine. | [📂 View Project](https://github.com/H-ERDEM/react-interview-question-bank) |
+| 🗄️ **Database** | **NovaStore DB** | `MS SQL Server`, `T-SQL` | End-to-end e-commerce database architecture, 3NF schema, stored procedures. | [📂 View Project](https://github.com/H-ERDEM/NovaStore-SQLServer-ECommerceDB) |
 
-### 🛠️ Technical Breakdown
+### 🛠️ Final Scope & Technical Summary
 
-* **📱 [Flutter Mini Catalog](https://github.com/H-ERDEM/flutter-mini-catalog):** Fluid, production-ready mobile catalog interface focused on modular widget architecture, responsive layouts, and clean navigation flows.
-* **⚛️ [React Interview Question Bank](https://github.com/H-ERDEM/react-interview-question-bank):** Interactive technical evaluation platform featuring optimized search and tag filtering, decoupled components, and React Hooks state management.
-* **🗄️ [NovaStore SQL Server E-Commerce DB](https://github.com/H-ERDEM/NovaStore-SQLServer-ECommerceDB):** Enterprise-grade relational schema adhering strictly to 3NF standards, PK/FK integrity rules, cascade constraints, and optimized T-SQL indexing.
+* **📱 [Flutter Mini Catalog](https://github.com/H-ERDEM/flutter-mini-catalog):** Final mobile deliverable implementing clean component structures, multi-screen responsive flows, and practical state management.
+* **⚛️ [React Interview Question Bank](https://github.com/H-ERDEM/react-interview-question-bank):** Final web deliverable featuring structured technical assessment logic, dynamic tagging, and state hooks.
+* **🗄️ [NovaStore SQL Server E-Commerce DB](https://github.com/H-ERDEM/NovaStore-SQLServer-ECommerceDB):** Final database design deliverable including complete entity-relationship modeling (3NF), foreign key cascades, and operational T-SQL scripts.
 
 ---
 
@@ -19,29 +31,29 @@
 
 ### 📌 Genel Bakış
 
-Bu depo; **Mobil Arayüz Mühendisliği**, **Etkileşimli Web Uygulamaları** ve **İlişkisel Veritabanı Mimarisi** alanlarındaki projelerin mimari kararlarını, teknik yapılarını ve kaynak kodlarını bir araya getiren merkezi bir portfolyo dizinidir.
+Bu depo; yazılım staj programı kapsamında başarıyla tamamlanan **bitirme projelerini ve nihai teslimleri (deliverables)** tek bir merkezde toplayan ana dizindir. Mobil istemci, web önyüzü ve kurumsal veritabanı alanlarındaki bağımsız modüllerin teknik çıktılarını ve kaynak kodlarını içerir.
 
 ```text
-Mühendislik Dizini
-├── 📱 Mobil Katman      ── Flutter Mini Catalog       (Flutter / Dart / Modüler Arayüz)
-├── ⚛️ Önyüz Katmanı     ── React Interview Bank       (React / State Yönetimi / Filtreleme)
-└── 🗄️ Veritabanı Katmanı ── NovaStore İlişkisel Model  (MS SQL Server / T-SQL / Normalizasyon)
+Staj Bitirme Projeleri Dizini
+├── 📱 Mobil Modül       ── Flutter Mini Catalog       (Flutter / Dart / UI ve Durum Yönetimi)
+├── ⚛️ Önyüz Modülü      ── React Interview Bank       (React / State Yönetimi / Filtreleme)
+└── 🗄️ Veritabanı Modülü ── NovaStore İlişkisel Model  (MS SQL Server / T-SQL / Normalizasyon)
 
 ```
 
-### 🗂️ Modül Dizin Tablosu
+### 🗂️ Bitirme Projeleri Tablosu
 
-| Alan | Depo (Repo) | Temel Yığın | Mimari ve Teknik Odak | Doğrudan Erişim |
+| Modül / Alan | Proje Adı | Teknoloji Yığını | Bitirme Kapsamı ve Çıktılar | Proje Bağlantısı |
 | --- | --- | --- | --- | --- |
-| 📱 **Mobil** | **Flutter Mini Catalog** | `Flutter`, `Dart` | Modüler widget yapısı, responsive yerleşimler, temiz durum akışı. | [📂 Repoyu İncele](https://github.com/H-ERDEM/flutter-mini-catalog) |
-| ⚛️ **Önyüz** | **React Question Bank** | `React`, `JavaScript` | Dinamik arama/filtreleme motoru, yeniden kullanılabilir bileşenler. | [📂 Repoyu İncele](https://github.com/H-ERDEM/react-interview-question-bank) |
-| 🗄️ **Veritabanı** | **NovaStore DB** | `MS SQL Server`, `T-SQL` | 3NF ilişkisel normalizasyon, veri bütünlüğü kuralları, optimize sorgular. | [📂 Repoyu İncele](https://github.com/H-ERDEM/NovaStore-SQLServer-ECommerceDB) |
+| 📱 **Mobil** | **Flutter Mini Catalog** | `Flutter`, `Dart` | Modüler widget yapısı, responsive katalog akışı ve optimize durum yönetimi. | [📂 Projeyi İncele](https://github.com/H-ERDEM/flutter-mini-catalog) |
+| ⚛️ **Önyüz** | **React Question Bank** | `React`, `JavaScript` | Yeniden kullanılabilir bileşenler, dinamik arama ve etiket filtreleme altyapısı. | [📂 Projeyi İncele](https://github.com/H-ERDEM/react-interview-question-bank) |
+| 🗄️ **Veritabanı** | **NovaStore DB** | `MS SQL Server`, `T-SQL` | E-ticaret veri şeması, 3NF normalizasyon, ilişkisel kısıtlamalar ve T-SQL scriptleri. | [📂 Projeyi İncele](https://github.com/H-ERDEM/NovaStore-SQLServer-ECommerceDB) |
 
-### 🛠️ Modül ve Mimari Detayları
+### 🛠️ Proje Çıktıları ve Teknik Kapsam
 
-* **📱 [Flutter Mini Catalog](https://github.com/H-ERDEM/flutter-mini-catalog):** Mobil platformlar için akıcı ve performanslı ürün kataloğu; katmanlı widget mimarisi, çoklu ekran uyumu ve optimize sayfa geçişleri.
-* **⚛️ [React Interview Question Bank](https://github.com/H-ERDEM/react-interview-question-bank):** Teknik mülakat hazırlığı için dinamik filtreleme motoru, React Hooks tabanlı durum yönetimi ve yeniden kullanılabilir bileşen yapısı.
-* **🗄️ [NovaStore SQL Server E-Commerce DB](https://github.com/H-ERDEM/NovaStore-SQLServer-ECommerceDB):** E-ticaret sipariş, ürün ve stok yönetimi için 3NF prensipleri, PK/FK kısıtlamaları ile veri bütünlüğü ve performanslı T-SQL şablonları.
+* **📱 [Flutter Mini Catalog](https://github.com/H-ERDEM/flutter-mini-catalog):** Mobil taraftaki staj bitirme teslimi; katmanlı mimari, farklı ekran çözünürlüklerine uyumlu tasarım ve temiz navigasyon akışı.
+* **⚛️ [React Interview Question Bank](https://github.com/H-ERDEM/react-interview-question-bank):** Web önyüz bitirme teslimi; React Hooks tabanlı durum kontrolü ve interaktif mülakat soru bankası platformu.
+* **🗄️ [NovaStore SQL Server E-Commerce DB](https://github.com/H-ERDEM/NovaStore-SQLServer-ECommerceDB):** Veritabanı bitirme teslimi; e-ticaret süreçleri için 3NF veri bütünlüğü, PK/FK modelleme ve iş mantığı T-SQL sorguları.
 
 ---
 
@@ -50,7 +62,3 @@ Mühendislik Dizini
 **Hayrunnisa Büşra ERDEM**
 
 * GitHub: [@H-ERDEM](https://github.com/H-ERDEM)
-
-```
-
-```
