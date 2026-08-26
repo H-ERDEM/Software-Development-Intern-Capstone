@@ -1,27 +1,3 @@
-```markdown
-# 🌐 Multi-Stack Software Architecture & Engineering Showcase
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://github.com/H-ERDEM/flutter-mini-catalog)
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/H-ERDEM/react-interview-question-bank)
-[![SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)](https://github.com/H-ERDEM/NovaStore-SQLServer-ECommerceDB)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/H-ERDEM)
-
-**Language / Dil:** [English](#-english) • [Türkçe](#-türkçe)
-
----
-
-## 🇬🇧 English
-
-### 📌 Overview
-This repository serves as a centralized architectural showcase and index for core engineering projects covering **Mobile UI Engineering**, **Interactive Frontend Applications**, and **Relational Database Design**.
-
-```text
-Showcase Hub
-├── 📱 Mobile Layer      ── Flutter Mini Catalog       (Flutter / Dart / Clean UI)
-├── ⚛️ Frontend Layer    ── React Interview Bank       (React / State Mgmt / UI Logic)
-└── 🗄️ Database Layer    ── NovaStore Relational Model (MS SQL Server / T-SQL / Normalization)
-
-```
 
 ### 🗂️ Engineering Modules
 
